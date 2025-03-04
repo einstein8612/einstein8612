@@ -2,7 +2,7 @@
 
 I'm Joey Li - I'm an aspiring developer based in the Netherlands, passionate about creating innovative and efficient software solutions. I love learning and contributing to exciting projects in the software engineering community.
 
-I'm currently ~~studying at TU Delft~~ doing my minor at Tsinghua University.
+I'm currently studying at TU Delft.
 
 
 <details>
